@@ -1,0 +1,16 @@
+<div class="article-item-container">
+                                       <a href="/orient/2nd-generation-bambino-version-2-automatic-fac00008w0-mens-watch--id9146134.htm" onclick="if (c24.watchPositions != null) c24.watchPositions.store(9146134, 1);" class="article-item block-item flex-column full-height" data-article-id="9146134" data-manufacturer="Orient">
+      <div class="article-image-container">
+         <div class="content">
+            <img src='https://cdn2.chrono24.com/images/uhren/images_34/s1/9146134_s210.jpg?v=1537051448323' srcset='https://cdn2.chrono24.com/images/uhren/images_34/s1/9146134_s420.jpg?v=1537051448323 2x' alt='Orient 2nd Generation Bambino Version 2 Automatic Fac00008w0...'/></div>
+         <span class="notepad-toggle" onclick="event.stopPropagation(); c24.tools.toggleNote('9146134'); return false;" data-note="9146134"><i class="notepad-toggle-icon i-note-inverse"></i><i class="notepad-toggle-icon-bg i-note"></i></span></div>
+
+      <div class="article-title">
+         Orient 2nd Generation Bambino Version 2 Automatic Fac00008w0...</div>
+
+      <div class="article-price-container">
+         <div class="article-price">
+            <span class="article-availability immediately js-popover" title="Availability" data-content="Available now" data-placement="top" data-container="body"></span><div>
+      <strong>
+         <span class="currency">$</span>12,175</strong>
+   </div></div>
