@@ -1,6 +1,6 @@
 '''
-Regex Playground
-Author: Jasen Victor Chan
+Watchbuyer's Companion
+Author: Jasen Chan
 
 
 TODO:
@@ -8,8 +8,7 @@ TODO:
 - add regular expressions for crown&caliber
 	- show which marketplace has better prices
 - change prices for new, box, papers etc
-- turn into app
-- show to Youtubers
+- OPTIMIZE: this is just a barebones working version of the program; many optimizations can be made on the regexs, and possibly on stringbuilding
 
 COMPLETED:
 - ** fix bug where searches don't work for models chrono24 already has defined...
