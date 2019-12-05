@@ -98,7 +98,9 @@ def scrapePrices(searchString,iteration,sourceSite,condition='condition_all',num
 
 	#print "Attempting to scrape from page " + targetURL
 
-	urlData = urllib2.urlopen(targetURL)
+	req = urllib2.Request(targetURL, headers = {"User-Agent": "Mozilla/5.0"})
+
+	urlData = urllib2.urlopen(req)
 
 	# handle case where target page gets redirected
 	if sourceSite == 'chrono24':
